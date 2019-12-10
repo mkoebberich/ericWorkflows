@@ -1,0 +1,14 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Editor specific
+.vscode/
+
+# Saved results
+result.json
+
+# Sandbox
+sandbox/
